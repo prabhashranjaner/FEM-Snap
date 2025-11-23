@@ -21,19 +21,19 @@ const FeatireList = () => {
   return (
     <ListEl>
       <SubMenuItem label="Todo List">
-        <img alt="todo" src="/public/images/icon-todo.svg" />
+        <img alt="todo" src="/images/icon-todo.svg" />
       </SubMenuItem>
 
       <SubMenuItem label="Calender">
-        <img alt="calender" src="/public/images/icon-calendar.svg" />
+        <img alt="calender" src="/images/icon-calendar.svg" />
       </SubMenuItem>
 
       <SubMenuItem label="Reminders">
-        <img alt="reminders" src="/public/images/icon-reminders.svg" />
+        <img alt="reminders" src="/images/icon-reminders.svg" />
       </SubMenuItem>
 
       <SubMenuItem label="Planning">
-        <img alt="planning" src="/public/images/icon-planning.svg" />
+        <img alt="planning" src="/images/icon-planning.svg" />
       </SubMenuItem>
     </ListEl>
   );
