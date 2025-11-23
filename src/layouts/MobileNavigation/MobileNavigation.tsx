@@ -21,7 +21,7 @@ const MobileNavigation = ({
         <CancleIconWrapperStyle>
           <img
             alt="close"
-            src="/public/images/icon-close-menu.svg"
+            src="/images/icon-close-menu.svg"
             onClick={() => setIsMobileMenuActive(false)}
           />
         </CancleIconWrapperStyle>
